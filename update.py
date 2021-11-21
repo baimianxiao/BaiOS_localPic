@@ -1,5 +1,5 @@
 # coding: utf-8
-
+# 更新数据
 import json
 import re
 import urllib
@@ -25,12 +25,12 @@ def url_change(url, name):
     return "https://prts.wiki//images" + url_data[0]
 
 
-with open('data/arknightsdraw_ch(v2).json', 'r',encoding='utf-8') as f:
+with open('data/arknightsdraw_ch(v2).json', 'r', encoding='utf-8') as f:
     arknightsDraw_data = json.loads(f.read())
 for i in range(0, len(arknightsDraw_data)):
     name = arknightsDraw_data[i]['name']
     arknightsDraw_data[i]['url_half'] = get_url(name)
     print(arknightsDraw_data[i]['name'], arknightsDraw_data[i]['url_half'])
-with open('data/arknightsdraw_ch.json', 'w',encoding='utf-8') as f:
+with open('data/arknightsdraw_ch.json', 'w', encoding='utf-8') as f:
     f.write(json.dumps(arknightsDraw_data, ensure_ascii=False, indent=2))
     print("获取完毕!")

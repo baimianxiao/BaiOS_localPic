@@ -1,4 +1,4 @@
-[
+[  
   {
     "name": "空爆",
     "star": "3",
@@ -292,736 +292,526 @@
   {
     "name": "蓝毒",
     "star": "5",
-    "class": "狙击",
-    "url1": "",
-    "url2": ""
+    "class": "狙击"
   },
   {
     "name": "普罗旺斯",
     "star": "5",
-    "class": "狙击",
-    "url1": "",
-    "url2": ""
+    "class": "狙击"
   },
   {
     "name": "白金",
     "star": "5",
-    "class": "狙击",
-    "url1": "",
-    "url2": ""
+    "class": "狙击"
   },
   {
     "name": "守林人",
     "star": "5",
-    "class": "狙击",
-    "url1": "",
-    "url2": ""
+    "class": "狙击"
   },
   {
     "name": "陨星",
     "star": "5",
-    "class": "狙击",
-    "url1": "",
-    "url2": ""
+    "class": "狙击"
   },
   {
     "name": "送葬人",
     "star": "5",
-    "class": "狙击",
-    "url1": "",
-    "url2": ""
+    "class": "狙击"
   },
   {
     "name": "灰喉",
     "star": "5",
-    "class": "狙击",
-    "url1": "",
-    "url2": ""
+    "class": "狙击"
   },
   {
     "name": "慑砂",
     "star": "5",
-    "class": "狙击",
-    "url1": "",
-    "url2": ""
+    "class": "狙击"
   },
   {
     "name": "安哲拉",
     "star": "5",
-    "class": "狙击",
-    "url1": "",
-    "url2": ""
+    "class": "狙击"
   },
   {
     "name": "四月",
     "star": "5",
-    "class": "狙击",
-    "url1": "",
-    "url2": ""
+    "class": "狙击"
   },
   {
     "name": "奥斯塔",
     "star": "5",
-    "class": "狙击",
-    "url1": "",
-    "url2": ""
+    "class": "狙击"
   },
   {
     "name": "熔泉",
     "star": "5",
-    "class": "狙击",
-    "url1": "",
-    "url2": ""
+    "class": "狙击"
   },
   {
     "name": "夜魔",
     "star": "5",
-    "class": "术师",
-    "url1": "",
-    "url2": ""
+    "class": "术师"
   },
   {
     "name": "天火",
     "star": "5",
-    "class": "术师",
-    "url1": "",
-    "url2": ""
+    "class": "术师"
   },
   {
     "name": "惊蛰",
     "star": "5",
-    "class": "术师",
-    "url1": "",
-    "url2": ""
+    "class": "术师"
   },
   {
     "name": "莱恩哈特",
     "star": "5",
-    "class": "术师",
-    "url1": "",
-    "url2": ""
+    "class": "术师"
   },
   {
     "name": "蜜蜡",
     "star": "5",
-    "class": "术师",
-    "url1": "",
-    "url2": ""
+    "class": "术师"
   },
   {
     "name": "爱丽丝",
     "star": "5",
-    "class": "术师",
-    "url1": "",
-    "url2": ""
+    "class": "术师"
   },
   {
     "name": "德克萨斯",
     "star": "5",
-    "class": "先锋",
-    "url1": "",
-    "url2": ""
+    "class": "先锋"
   },
   {
     "name": "凛冬",
     "star": "5",
-    "class": "先锋",
-    "url1": "",
-    "url2": ""
+    "class": "先锋"
   },
   {
     "name": "苇草",
     "star": "5",
-    "class": "先锋",
-    "url1": "",
-    "url2": ""
+    "class": "先锋"
   },
   {
     "name": "极境",
     "star": "5",
-    "class": "先锋",
-    "url1": "",
-    "url2": ""
+    "class": "先锋"
   },
   {
     "name": "贾维",
     "star": "5",
-    "class": "先锋",
-    "url1": "",
-    "url2": ""
+    "class": "先锋"
   },
   {
     "name": "芙兰卡",
     "star": "5",
-    "class": "近卫",
-    "url1": "",
-    "url2": ""
+    "class": "近卫"
   },
   {
     "name": "拉普兰德",
     "star": "5",
-    "class": "近卫",
-    "url1": "",
-    "url2": ""
+    "class": "近卫"
   },
   {
     "name": "幽灵鲨",
     "star": "5",
-    "class": "近卫",
-    "url1": "",
-    "url2": ""
+    "class": "近卫"
   },
   {
     "name": "诗怀雅",
     "star": "5",
-    "class": "近卫",
-    "url1": "",
-    "url2": ""
+    "class": "近卫"
   },
   {
     "name": "星极",
     "star": "5",
-    "class": "近卫",
-    "url1": "",
-    "url2": ""
+    "class": "近卫"
   },
   {
     "name": "布洛卡",
     "star": "5",
-    "class": "近卫",
-    "url1": "",
-    "url2": ""
+    "class": "近卫"
   },
   {
     "name": "断崖",
     "star": "5",
-    "class": "近卫",
-    "url1": "",
-    "url2": ""
+    "class": "近卫"
   },
   {
     "name": "燧石",
     "star": "5",
-    "class": "近卫",
-    "url1": "",
-    "url2": ""
+    "class": "近卫"
   },
   {
     "name": "赤冬",
     "star": "5",
-    "class": "近卫",
-    "url1": "",
-    "url2": ""
+    "class": "近卫"
   },
   {
     "name": "羽毛笔",
     "star": "5",
-    "class": "近卫",
-    "url1": "",
-    "url2": ""
+    "class": "近卫"
   },
   {
     "name": "雷蛇",
     "star": "5",
-    "class": "重装",
-    "url1": "",
-    "url2": ""
+    "class": "重装"
   },
   {
     "name": "临光",
     "star": "5",
-    "class": "重装",
-    "url1": "",
-    "url2": ""
+    "class": "重装"
   },
   {
     "name": "可颂",
     "star": "5",
-    "class": "重装",
-    "url1": "",
-    "url2": ""
+    "class": "重装"
   },
   {
     "name": "吽",
     "star": "5",
-    "class": "重装",
-    "url1": "",
-    "url2": ""
+    "class": "重装"
   },
   {
     "name": "石棉",
     "star": "5",
-    "class": "重装",
-    "url1": "",
-    "url2": ""
+    "class": "重装"
   },
   {
     "name": "灰毫",
     "star": "5",
-    "class": "重装",
-    "url1": "",
-    "url2": ""
+    "class": "重装"
   },
   {
     "name": "赫默",
     "star": "5",
-    "class": "医疗",
-    "url1": "",
-    "url2": ""
+    "class": "医疗"
   },
   {
     "name": "白面鸮",
     "star": "5",
-    "class": "医疗",
-    "url1": "",
-    "url2": ""
+    "class": "医疗"
   },
   {
     "name": "华法琳",
     "star": "5",
-    "class": "医疗",
-    "url1": "",
-    "url2": ""
+    "class": "医疗"
   },
   {
     "name": "絮雨",
     "star": "5",
-    "class": "医疗",
-    "url1": "",
-    "url2": ""
+    "class": "医疗"
   },
   {
     "name": "桑葚",
     "star": "5",
-    "class": "医疗",
-    "url1": "",
-    "url2": ""
+    "class": "医疗"
   },
   {
     "name": "真理",
     "star": "5",
-    "class": "辅助",
-    "url1": "",
-    "url2": ""
+    "class": "辅助"
   },
   {
     "name": "初雪",
     "star": "5",
-    "class": "辅助",
-    "url1": "",
-    "url2": ""
+    "class": "辅助"
   },
   {
     "name": "梅尔",
     "star": "5",
-    "class": "辅助",
-    "url1": "",
-    "url2": ""
+    "class": "辅助"
   },
   {
     "name": "空",
     "star": "5",
-    "class": "辅助",
-    "url1": "",
-    "url2": ""
+    "class": "辅助"
   },
   {
     "name": "格劳克斯",
     "star": "5",
-    "class": "辅助",
-    "url1": "",
-    "url2": ""
+    "class": "辅助"
   },
   {
     "name": "巫恋",
     "star": "5",
-    "class": "辅助",
-    "url1": "",
-    "url2": ""
+    "class": "辅助"
   },
   {
     "name": "月禾",
     "star": "5",
-    "class": "辅助",
-    "url1": "",
-    "url2": ""
+    "class": "辅助"
   },
   {
     "name": "狮蝎",
     "star": "5",
-    "class": "特种",
-    "url1": "",
-    "url2": ""
+    "class": "特种"
   },
   {
     "name": "红",
     "star": "5",
-    "class": "特种",
-    "url1": "",
-    "url2": ""
+    "class": "特种"
   },
   {
     "name": "食铁兽",
     "star": "5",
-    "class": "特种",
-    "url1": "",
-    "url2": ""
+    "class": "特种"
   },
   {
     "name": "崖心",
     "star": "5",
-    "class": "特种",
-    "url1": "",
-    "url2": ""
+    "class": "特种"
   },
   {
     "name": "槐琥",
     "star": "5",
-    "class": "特种",
-    "url1": "",
-    "url2": ""
+    "class": "特种"
   },
   {
     "name": "卡夫卡",
     "star": "5",
-    "class": "特种",
-    "url1": "",
-    "url2": ""
+    "class": "特种"
   },
   {
     "name": "乌有",
     "star": "5",
-    "class": "特种",
-    "url1": "",
-    "url2": ""
+    "class": "特种"
   },
   {
     "name": "绮良",
     "star": "5",
-    "class": "特种",
-    "url1": "",
-    "url2": ""
+    "class": "特种"
   },
   {
     "name": "能天使",
     "star": "6",
-    "class": "狙击",
-    "url1": "",
-    "url2": ""
+    "class": "狙击"
   },
   {
     "name": "黑",
     "star": "6",
-    "class": "狙击",
-    "url1": "",
-    "url2": ""
+    "class": "狙击"
   },
   {
     "name": "早露",
     "star": "6",
-    "class": "狙击",
-    "url1": "",
-    "url2": ""
+    "class": "狙击"
   },
   {
     "name": "空弦",
     "star": "6",
-    "class": "狙击",
-    "url1": "",
-    "url2": ""
+    "class": "狙击"
   },
   {
     "name": "远牙",
     "star": "6",
-    "class": "狙击",
-    "url1": "",
-    "url2": ""
+    "class": "狙击"
   },
   {
     "name": "伊芙利特",
     "star": "6",
-    "class": "术师",
-    "url1": "",
-    "url2": ""
+    "class": "术师"
   },
   {
     "name": "艾雅法拉",
     "star": "6",
-    "class": "术师",
-    "url1": "",
-    "url2": ""
+    "class": "术师"
   },
   {
     "name": "莫斯提马",
     "star": "6",
-    "class": "术师",
-    "url1": "",
-    "url2": ""
+    "class": "术师"
   },
   {
     "name": "刻俄柏",
     "star": "6",
-    "class": "术师",
-    "url1": "",
-    "url2": ""
+    "class": "术师"
   },
   {
     "name": "异客",
     "star": "6",
-    "class": "术师",
-    "url1": "",
-    "url2": ""
+    "class": "术师"
   },
   {
     "name": "卡涅利安",
     "star": "6",
-    "class": "术师",
-    "url1": "",
-    "url2": ""
+    "class": "术师"
   },
   {
     "name": "推进之王",
     "star": "6",
-    "class": "先锋",
-    "url1": "",
-    "url2": ""
+    "class": "先锋"
   },
   {
     "name": "风笛",
     "star": "6",
-    "class": "先锋",
-    "url1": "",
-    "url2": ""
+    "class": "先锋"
   },
   {
     "name": "嵯峨",
     "star": "6",
-    "class": "先锋",
-    "url1": "",
-    "url2": ""
+    "class": "先锋"
   },
   {
     "name": "琴柳",
     "star": "6",
-    "class": "先锋",
-    "url1": "",
-    "url2": ""
+    "class": "先锋"
   },
   {
     "name": "陈",
     "star": "6",
-    "class": "近卫",
-    "url1": "",
-    "url2": ""
+    "class": "近卫"
   },
   {
     "name": "银灰",
     "star": "6",
-    "class": "近卫",
-    "url1": "",
-    "url2": ""
+    "class": "近卫"
   },
   {
     "name": "斯卡蒂",
     "star": "6",
-    "class": "近卫",
-    "url1": "",
-    "url2": ""
+    "class": "近卫"
   },
   {
     "name": "赫拉格",
     "star": "6",
-    "class": "近卫",
-    "url1": "",
-    "url2": ""
+    "class": "近卫"
   },
   {
     "name": "煌",
     "star": "6",
-    "class": "近卫",
-    "url1": "",
-    "url2": ""
+    "class": "近卫"
   },
   {
     "name": "棘刺",
     "star": "6",
-    "class": "近卫",
-    "url1": "",
-    "url2": ""
+    "class": "近卫"
   },
   {
     "name": "史尔特尔",
     "star": "6",
-    "class": "近卫",
-    "url1": "",
-    "url2": ""
+    "class": "近卫"
   },
   {
     "name": "山",
     "star": "6",
-    "class": "近卫",
-    "url1": "",
-    "url2": ""
+    "class": "近卫"
   },
   {
     "name": "帕拉斯",
     "star": "6",
-    "class": "近卫",
-    "url1": "",
-    "url2": ""
+    "class": "近卫"
   },
   {
     "name": "塞雷娅",
     "star": "6",
-    "class": "重装",
-    "url1": "",
-    "url2": ""
+    "class": "重装"
   },
   {
     "name": "星熊",
     "star": "6",
-    "class": "重装",
-    "url1": "",
-    "url2": ""
+    "class": "重装"
   },
   {
     "name": "森蚺",
     "star": "6",
-    "class": "重装",
-    "url1": "",
-    "url2": ""
+    "class": "重装"
   },
   {
     "name": "瑕光",
     "star": "6",
-    "class": "重装",
-    "url1": "",
-    "url2": ""
+    "class": "重装"
   },
   {
     "name": "泥岩",
     "star": "6",
-    "class": "重装",
-    "url1": "",
-    "url2": ""
+    "class": "重装"
   },
   {
     "name": "夜莺",
     "star": "6",
-    "class": "医疗",
-    "url1": "",
-    "url2": ""
+    "class": "医疗"
   },
   {
     "name": "闪灵",
     "star": "6",
-    "class": "医疗",
-    "url1": "",
-    "url2": ""
+    "class": "医疗"
   },
   {
     "name": "凯尔希",
     "star": "6",
-    "class": "医疗",
-    "url1": "",
-    "url2": ""
+    "class": "医疗"
   },
   {
     "name": "安洁莉娜",
     "star": "6",
-    "class": "辅助",
-    "url1": "",
-    "url2": ""
+    "class": "辅助"
   },
   {
     "name": "麦哲伦",
     "star": "6",
-    "class": "辅助",
-    "url1": "",
-    "url2": ""
+    "class": "辅助"
   },
   {
     "name": "铃兰",
     "star": "6",
-    "class": "辅助",
-    "url1": "",
-    "url2": ""
+    "class": "辅助"
   },
   {
     "name": "阿",
     "star": "6",
-    "class": "特种",
-    "url1": "",
-    "url2": ""
+    "class": "特种"
   },
   {
     "name": "傀影",
     "star": "6",
-    "class": "特种",
-    "url1": "",
-    "url2": ""
+    "class": "特种"
   },
   {
     "name": "温蒂",
     "star": "6",
-    "class": "特种",
-    "url1": "",
-    "url2": ""
+    "class": "特种"
   },
   {
     "name": "水月",
     "star": "6",
-    "class": "特种",
-    "url1": "",
-    "url2": ""
+    "class": "特种"
   },
   {
     "name": "W",
     "star": "6",
-    "class": "狙击",
-    "url1": "",
-    "url2": ""
+    "class": "狙击"
   },
   {
     "name": "迷迭香",
     "star": "6",
-    "class": "狙击",
-    "url1": "",
-    "url2": ""
+    "class": "狙击"
   },
   {
     "name": "灰烬",
     "star": "6",
-    "class": "狙击",
-    "url1": "",
-    "url2": ""
+    "class": "狙击"
   },
   {
     "name": "假日威龙陈",
     "star": "6",
-    "class": "狙击",
-    "url1": "",
-    "url2": ""
+    "class": "狙击"
   },
   {
     "name": "夕",
     "star": "6",
-    "class": "术师",
-    "url1": "",
-    "url2": ""
+    "class": "术师"
   },
   {
     "name": "年",
     "star": "6",
-    "class": "重装",
-    "url1": "",
-    "url2": ""
+    "class": "重装"
   },
   {
     "name": "浊心斯卡蒂",
     "star": "6",
-    "class": "辅助",
-    "url1": "",
-    "url2": ""
+    "class": "辅助"
   }
 ]

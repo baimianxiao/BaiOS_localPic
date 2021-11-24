@@ -1,11 +1,19 @@
 # coding: utf-8
-# 更新数据
+# 
+# 导入需要的模块
 import json
 import re
 import urllib
 import urllib.request
 
-
+def get_html(url):
+  request = urllib.request.Request(url)
+  # 模拟Mozilla浏览器进行爬虫
+  request.add_header("user-agent", "Mozilla/5.0")
+  response2 = urllib.request.urlopen(request)
+  # 将获取的内容存储到变量
+  html = str(response2.read(), encoding="utf-8")
+  return html
 def get_url(name):
     url = "https://prts.wiki/w/PRTS:%E6%96%87%E4%BB%B6%E4%B8%80%E8%A7%88/%E5%B9%B2%E5%91%98%E7%B2%BE%E8%8B%B10%E5%8D%8A%E8%BA%AB%E5%83%8F "
     request = urllib.request.Request(url)
